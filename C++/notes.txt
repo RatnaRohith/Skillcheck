@@ -1,0 +1,19 @@
+OOPS:
+Inheritance
+Polymorphism
+Encapsulation
+Abstraction
+
+Libraries:
+Core Lib: Data types, Variables, Literals etc.
+Std lib: Functions manipulating strings, files etc.
+STd Temp lib: Methods manipulating a data structure.
+
+#include <iostream>
+using namespace std;
+int main(){
+    cout << "Hello C++ programming";
+    return 0;
+}
+
+C++ 

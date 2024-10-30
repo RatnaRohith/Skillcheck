@@ -1,0 +1,25 @@
+Html
+Make a website with Html
+Css
+make a Website with CSS
+JS
+Make a website with JS
+React
+Make 3 different websites with React
+Express
+Make a website using Express
+Mongodb
+Make a website with Mongodb
+Sql
+Make a website with mysql
+Node js
+make a website with Node js
+Rest API
+Make a few simple Rest API applications
+Containerize all the websites
+Use VCS with all the websites
+Test all the websites
+Build websites with frameworks
+
+Graphql API
+Microservices

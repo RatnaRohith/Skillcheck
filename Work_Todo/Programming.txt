@@ -1,0 +1,6 @@
+Can i make a programming language
+Can i do sorting algos
+can i do seraching algos
+can i do tree algos
+can i do data structure algos
+Time and space complexity
